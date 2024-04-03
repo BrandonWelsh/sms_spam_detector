@@ -39,3 +39,5 @@ N/A
 ## Update Log
 3/31/2024: Created github repo, took a look at the instructions.
 
+4/3/2024: Created and called sms_classification, have no idea if it's working yet. I will test it properly later.
+

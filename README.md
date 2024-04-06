@@ -31,13 +31,19 @@ Run each jupyter notebook cell. That's pretty much it.
 ## Resources Utilized
 This section is dedicated to keep track of what I used to help complete this project:
 
+50% sms_text_classification_solution.ipynb (this notebook had much of the required code already written into it, it was just a matter of copy paste)
+
+40% class notes (I was able to use the class notes to fill in the rest of the program)
+
+10% Artificial Intelligence (I used microsoft copilot to help debug the gradio application, I had a minor typo earlier in the program)
 
 ## Bugs
 
-N/A
+The application doesn't seem to work very well, and I'm not sure if the results are what was expected, or if I should have spent more time tuning and improving the model.
 
 ## Update Log
 3/31/2024: Created github repo, took a look at the instructions.
 
 4/3/2024: Created and called sms_classification, have no idea if it's working yet. I will test it properly later.
 
+4/6/2024: Finished the project.
